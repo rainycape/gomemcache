@@ -1,1 +1,1 @@
-This repository has been moved to http://github.com/rainycape/memcache - please update your code
+This repository has been moved to http://gopkgs.com/memcache.v1 - please update your code
